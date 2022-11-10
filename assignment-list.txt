@@ -1,0 +1,83 @@
+
+
+chapter-1 :: 1: Forms of business organizations 	                         
+chapter-1 :: 2: Shareholder value 	                                     
+chapter-1 :: 3: Intrinsic values and stock prices 	                     
+chapter-1 :: 4: Free cash flow and financial statements 	                 
+chapter-1 :: 5: Capital allocation process 	                             
+chapter-1 :: 6: Financial instruments 	                                 
+chapter-1 :: 7: Cost of money 	                                         
+chapter-1 :: 8: Macroeconomic factors that influence interest rate levels 
+chapter-1 :: 9: Financial institutions 	                                 
+chapter-1 :: 10: Types of financial markets 	                             
+chapter-1 :: 11: The market for common stock 	                         
+chapter-1 :: 12: Global economic crisis 	                                 
+
+chapter-3 :: 1: Ratio analysis 	                                         
+chapter-3 :: 2: Liquidity ratios 	                                     
+chapter-3 :: 3: Asset management ratios 	                                 
+chapter-3 :: 4: Debt management ratios 	                                 
+chapter-3 :: 5: More on debt management ratios 	                         
+chapter-3 :: 6: Profitability ratios 	                                 
+chapter-3 :: 7: Market value ratios 	                                     
+chapter-3 :: 8: Analyzing ratios 	                                     
+chapter-3 :: 9: The DuPont equation 	                                     
+chapter-3 :: 10: An analysis of company performance using DuPont analysis 
+chapter-3 :: 11: The effect of transactions on ratios 	                 
+
+
+chapter-4 ::  1: Introduction to the future value of money 	     
+chapter-4 ::  2: Simple versus compound interest 	                 
+chapter-4 ::  3: Future value 	                                 
+chapter-4 ::  4: Introduction to the present value of money 	     
+chapter-4 ::  5: Present value 	                                 
+chapter-4 ::  6: Finding the interest rate and the number of years 
+chapter-4 ::  7: Companies and growth rates 	                     
+chapter-4 ::  8: Perpetuities 	                                 
+chapter-4 ::  9: Future value of annuities 	                     
+chapter-4 ::  10: Future value of annuities 	                     
+chapter-4 ::  11: Calculate annuity cash flows 	                 
+chapter-4 ::  12: Present value of annuities 	                     
+chapter-4 ::  13: Present value of annuities and annuity payments 
+chapter-4 ::  14: Implied interest rate and period 	             
+chapter-4 ::  15: Mortgage payments 	                             
+chapter-4 ::  16: Uneven cash flows 	                             
+chapter-4 ::  17: Semiannual and other compounding periods 	     
+chapter-4 ::  18: Nonannual compounding period 	                 
+chapter-4 ::  19: More on the time value of money 	             
+chapter-4 ::  20: Growing annuities 	                             
+
+
+chapter-5 ::  1: Types of bonds 	                                           
+chapter-5 ::  2: Characteristics of bonds 	                               
+chapter-5 ::  3: More on the characteristics of bonds 	                   
+chapter-5 ::  4: Convertible bonds, warrants, and other exotic bond features 
+chapter-5 ::  5: The valuation of bonds 	                                   
+chapter-5 ::  6: Bond yields and prices over time 	                       
+chapter-5 ::  7: Valuing semiannual coupon bonds 	                           
+chapter-5 ::  8: Bond yields 	                                            
+chapter-5 ::  9: Calculating interest rates 	                               
+chapter-5 ::  10: More on types of bonds 	                                   
+chapter-5 ::  11: Bond ratings 	                                           
+chapter-5 ::  12: Price risk and reinvestment rate risk 	                   
+chapter-5 ::  13: Bond listings and yield spreads 	                       
+chapter-5 ::  14: Drawing a yield curve 	                                   
+chapter-5 ::  15: Factors that impact the yield curve 	                   
+chapter-5 ::  16: Bankruptcy and reorganization 	                           
+
+chapter-6 ::  1: Basic concepts - Risk and return 	                       
+chapter-6 ::  2: Investment returns 	                                       
+chapter-6 ::  3: Stock prices and stand-alone risk 	                       
+chapter-6 ::  4: Statistical measures of standalone risk 	                   
+chapter-6 ::  5: Measuring standalone risk using realized data 	           
+chapter-6 ::  6: Risk aversion 	                                           
+chapter-6 ::  7: Portfolio risk and diversification 	                       
+chapter-6 ::  8: Portfolio expected return and risk 	                       
+chapter-6 ::  9: The beta coefficient 	                                   
+chapter-6 ::  10: Portfolio risk and return 	                               
+chapter-6 ::  11: Portfolio beta and weights 	                               
+chapter-6 ::  12: The Capital Asset Pricing Model and the security market line
+chapter-6 ::  13: Changes to the security market line 	                   
+chapter-6 ::  14: Efficient markets hypothesis 	                           
+chapter-6 ::  15: Risk and return - Implications for managers and investors 
+chapter-6 ::  16: The Fama-French three-factor model 
